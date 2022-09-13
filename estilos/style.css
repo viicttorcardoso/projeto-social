@@ -28,6 +28,7 @@ section#telefone {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  padding-right: 22px;
 
   height: 627px;
   width: 311px;
